@@ -6,9 +6,9 @@
 - This app is tailored to suburban areas where the delivery services and public transportation are extremely limited and cars are not accessible to everyone
 - College students who are in suburban areas who doesn't have a car
 - People who may not have access to a smartphone (Can sign up using text messages/phone call?)
-
+- People who are vulnerable or in dangerous circumstances (elderly people in pandemics, war zone, etc)
 # Shopping Angel Driver
-- Volunteers, Church groups (Salvation Army)
+- Active volunteers, American Red Cross, Church groups (Salvation Army)
 
 ## Competitors
 - Instacart
